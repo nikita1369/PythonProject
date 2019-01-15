@@ -7,7 +7,7 @@
 !src
 !src/**
 
-!*.java
+!*.py
 !Data
 !/Data/**
 
