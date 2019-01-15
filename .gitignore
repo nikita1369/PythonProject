@@ -7,6 +7,10 @@
 !src
 !src/**
 
+!*.java
+!Data
+!/Data/**
+
 !libs
 !libs/**
 
